@@ -6,5 +6,6 @@ package com.huayu.taft.Contronller;
 public class Login {
     public static void main(String[] args) {
         System.out.println("9999");
+        System.out.println(3306);
     }
 }
