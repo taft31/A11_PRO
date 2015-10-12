@@ -12,7 +12,7 @@ public class SendbackInfo {
     }
 
     public SendbackInfo(String stbi_ID, String sdb_ID, String bk_ID) {
-        this.setSdbi_ID(stbi_ID);
+        this.setStbi_ID(stbi_ID);
         this.setSdb_ID(sdb_ID);
         this.setBk_ID(bk_ID);
     }
